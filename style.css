@@ -40,5 +40,10 @@
 		font-size:18px;
 		color:black;
 		background-color:#008e76;
+		text-decoration:none;
+		display:block;
+		text-align:center;
+		width:25%;
+		float:left;
 	}
 }
